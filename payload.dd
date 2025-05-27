@@ -1,0 +1,22 @@
+DELAY 2000
+GUI r
+STRING https://github.com/MrEchoFi
+ENTER
+DELAY 2000
+STRING f
+
+REM A slightly more advanced "Hello, World!" for Windows
+DELAY 2000
+REM Open the Run dialog
+WINDOWS r
+DELAY 1000
+REM Open powershell with our message
+STRING powershell "echo 'Fuck_U_Bitch_this is EchoFi USB *-*'; pause"
+ENTER
+
+DELAY 2000
+GUI r
+STRING https://youtu.be/kXYiU_JCYtU?si=rPr6BLWn0gIfSdZN
+ENTER
+DELAY 2000
+STRING f
